@@ -4959,19 +4959,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {}
+    "C:\\Users\\Trang Son\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ASP.net\\HRM_Practice\\HRM_Practice.csproj",
+      "projectUniqueName": "C:\\FPT-Aptech\\Github\\EAP-Practice\\EAP_Practice\\HRM_Practice.csproj",
       "projectName": "HRM_Practice",
-      "projectPath": "F:\\ASP.net\\HRM_Practice\\HRM_Practice.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "F:\\ASP.net\\HRM_Practice\\obj\\",
+      "projectPath": "C:\\FPT-Aptech\\Github\\EAP-Practice\\EAP_Practice\\HRM_Practice.csproj",
+      "packagesPath": "C:\\Users\\Trang Son\\.nuget\\packages\\",
+      "outputPath": "C:\\FPT-Aptech\\Github\\EAP-Practice\\EAP_Practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Trang Son\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4983,6 +4983,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -4994,6 +4995,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -5024,7 +5026,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
